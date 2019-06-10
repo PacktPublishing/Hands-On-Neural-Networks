@@ -60,9 +60,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781788992596_ColorImages.pdf).
 
 ### Related products
-* Neural Network Projects with Python [[Packt]]() [[Amazon]](https://www.amazon.in/Neural-Network-Projects-Python-ultimate/dp/1789138906?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERP_R5gxXPpp1bAjS2XRQ1l9BOMD0duq4taFCvETuquJRoCU6Dw_wcB_k_&gclid=CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERP_R5gxXPpp1bAjS2XRQ1l9BOMD0duq4taFCvETuquJRoCU6Dw_wcB)
+* Neural Network Projects with Python [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/neural-network-projects-python) [[Amazon]](https://www.amazon.in/Neural-Network-Projects-Python-ultimate/dp/1789138906?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERP_R5gxXPpp1bAjS2XRQ1l9BOMD0duq4taFCvETuquJRoCU6Dw_wcB_k_&gclid=CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERP_R5gxXPpp1bAjS2XRQ1l9BOMD0duq4taFCvETuquJRoCU6Dw_wcB)
 
-* Hands-On Neural Networks with Keras  [[Packt]]() [[Amazon]](https://www.amazon.in/Hands-Neural-Networks-Keras-intelligence/dp/1789536081?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPaBdlsIQPtsPRC9wfk4ss1CJhSSNZiyo5myrf5-7mIRoCxEfw_wcB_k_&gclid=CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPaBdlsIQPtsPRC9wfk4ss1CJhSSNZiyo5myrf5-7mIRoCxEfw_wcB)
+* Hands-On Neural Networks with Keras  [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/hands-neural-networks-keras) [[Amazon]](https://www.amazon.in/Hands-Neural-Networks-Keras-intelligence/dp/1789536081?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPaBdlsIQPtsPRC9wfk4ss1CJhSSNZiyo5myrf5-7mIRoCxEfw_wcB_k_&gclid=CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPaBdlsIQPtsPRC9wfk4ss1CJhSSNZiyo5myrf5-7mIRoCxEfw_wcB)
 
 
 ## Get to Know the Authors
