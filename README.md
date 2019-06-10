@@ -65,7 +65,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Hands-On Neural Networks with Keras  [[Packt]]() [[Amazon]](https://www.amazon.in/Hands-Neural-Networks-Keras-intelligence/dp/1789536081?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPaBdlsIQPtsPRC9wfk4ss1CJhSSNZiyo5myrf5-7mIRoCxEfw_wcB_k_&gclid=CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPaBdlsIQPtsPRC9wfk4ss1CJhSSNZiyo5myrf5-7mIRoCxEfw_wcB)
 
 
-## Get to Know the Author
+## Get to Know the Authors
 **Leonardo De Marchi** is an international speaker, author and consultant. He holds a masters in artificial intelligence (AI) and has worked as a data scientist in the sporting world, with clients such as New York Knicks, Manchester United. He now works as a head of data scientist at Badoo, the largest dating site with over 400 million users. He is also the lead instructor at ideai.io, a company specialized in Machine Learning trainings. With Ideai he provides technical and managerial training to large institutions and dynamic startups. He is also a contractor for the European Commission.
 
 **Laura Mitchell** graduated with a degree in mathematics from the University of Edinburgh and, since then, has gained over 12 years' experience in the tech and data science space. She is currently lead data scientist at Badoo, which is the largest online dating site in the world with over 400 million users worldwide. Laura has hands-on experience in the delivery of projects such as NLP, image classification, and recommender systems, from initial conception through to production. She has a passion for learning new technologies and keeping up to date with industry trends.
